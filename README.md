@@ -14,11 +14,25 @@ series/<series-slug>.webp             series cover on the Play tab
 ```
 
 `<series-slug>` and `<avatar-id>` must match the values seeded in the API.
-Avatar ids currently expected:
+Avatars in this repo, with the tier the API seeds them at:
 
-```
-default  fan  detective  star  king  golden  ninja  chef
-```
+| id | name | unlock |
+|---|---|---|
+| abouda | عبودة | free |
+| hmouda | حمودة | free |
+| kalthoum | كلثوم | free |
+| rawdha | روضة | free |
+| salih | صالح | level 3 |
+| sboui | السبوعي | level 5 |
+| slouma | سلومة | level 7 |
+| hafa | حفّة | level 9 |
+| blinta | بلينطة | level 12 |
+| sid_ahmed | سيد أحمد | level 15 |
+| sidi_daoud | سيدي داود | 5000 points |
+| beji_matrix | الباجي ماتريكس | 12000 points |
+| stich | ستيتش | rewarded ad |
+| fouchika | فوشيكة | rewarded ad |
+| slimen_labyedh | سليمان لأبيض | rewarded ad |
 
 ## URLs
 
